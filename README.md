@@ -62,14 +62,11 @@ This project focused on capturing and analyzing real network traffic using Wires
 ## Screenshots
 
 ### DNS Analysis
-
-!screenshots/dns.png
+screenshots/dns.png
 
 ### TCP Analysis
-
-!screenshots/tcp.png
+screenshots/tcp.png
 
 ### TLS Analysis
-
-!screenshots/tls.png
+screenshots/tls.png
 
