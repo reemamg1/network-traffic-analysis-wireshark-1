@@ -58,15 +58,13 @@ This project focused on capturing and analyzing real network traffic using Wires
 - Short capture duration.
 - Limited to local device traffic.
 - Encrypted TLS payloads could not be fully inspected.
-
 ## Screenshots
 
 ### DNS Analysis
-screenshots/dns.png
-screenshots/dns.png
+![DNS Analysis](screenshots/dns.png)
+
 ### TCP Analysis
-screenshots/tcp.png
+![TCP Analysis](screenshots/tcp.png)
 
 ### TLS Analysis
-screenshots/tls.png
-
+![TLS Analysis](screenshots/tls.png)
